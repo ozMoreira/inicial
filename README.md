@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/ozMoreira/inicial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Acesse https://ozmoreira.github.io/inicial/PingPong_nivel1.html para um jogo de Ping Pong
+Acesse http://aerozsolutions.000webhostapp.com/ para um jogo de Ping Pong
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
